@@ -1,0 +1,49 @@
+Play ${count} maps with ${mods}.
+Achieve an accuracy of ${accuracy}% or higher on any ${gameMode} map.
+Add at least ${score} to your ranked score.
+Play ${count} maps longer than ${length} minutes.
+Set a new personal best on ${gameMode} map.
+Play ${count} maps with a combo of ${combo} or higher.
+Pass ${count} maps with ${difficulty} stars or more.
+Get at least ${pp} performance points today.
+Earn ${rank} rank or higher on any map.
+Play ${count} maps with no mods (NM).
+Achieve ${combo} combo on any map in ${gameMode}.
+Play ${count} multiplayer matches today.
+Set a score with ${mods} enabled on any map.
+Play ${count} maps from ${artist}.
+Complete ${count} maps with less than ${misses} misses.
+Earn ${pp} from any ${gameMode} maps.
+Play ${count} maps in under ${length} minutes.
+Improve your ranked score by ${score}.
+Play ${count} different beatmaps from ${mapper}.
+Set a ${rank} score with ${accuracy}% accuracy or higher.
+Pass ${count} maps from the ${collection} collection.
+Play ${count} maps with at least ${accuracy}% accuracy overall.
+Hit at least ${count} perfect (300s) in a single map.
+Submit a score with ${mods} and finish with no misses.
+Complete a map with more than ${combo} combo in ${gameMode}.
+Add at least ${score} to your global ranked score.
+Play ${count} maps with any of the following mods: ${mods}.
+Submit a new high score in ${gameMode} today.
+Complete a map faster than ${time} minutes.
+Play ${count} beatmaps with ${mods} enabled.
+Set a new personal record on a map from ${mapper}.
+Earn at least ${count} perfect hits (300s) on a single map.
+Submit a score on ${count} different maps with ${mods}.
+Earn ${pp} in a single play today.
+Play ${count} maps from the ${genre} genre.
+Complete ${count} maps with a score of ${rank} or higher.
+Improve your personal best on ${count} different maps today.
+Pass ${count} maps with no more than ${misses} misses.
+Complete ${count} maps with less than ${accuracy}% accuracy.
+Play ${count} maps from the ${gameMode} mode.
+Submit a score with at least ${accuracy}% accuracy on a ${mods} map.
+Pass ${count} beatmaps in ${gameMode} mode.
+Earn at least ${score} in a single map with ${mods} enabled.
+Play ${count} maps from ${year} or earlier.
+Hit at least ${count} sliders in a single map.
+Complete ${count} maps from ${difficulty} or higher.
+Earn at least ${count} perfect hits in ${gameMode}.
+Submit a score on ${count} maps from the ${year} beatmaps.
+Complete a map with at least ${accuracy}% in ${gameMode} mode.
